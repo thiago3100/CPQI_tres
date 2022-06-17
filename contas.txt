@@ -1,0 +1,8 @@
+Ricardo;12000.0
+Thiago;3900.0
+Felipe;45000.0
+Santos;98200.0
+Bianca;123200.0
+renan;23244.8
+ruan;347832.9
+bruna;890003.7;
